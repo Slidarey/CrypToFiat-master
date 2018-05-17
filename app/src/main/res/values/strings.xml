@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CrypToFiat</string>
+    <string name="my_cards">My Cards</string>
+    <string name="add_cards">Add a Card</string>
+
+    <string name="no_internet_connection">No Internet Connection!!!</string>
+    <string name="action_go_to_my_cards">My Cards</string>
+    <string name="fiat_currency">Fiat Currency</string>
+    <string name="crypto_currency">Cryptocurrency</string>
+    <string name="action_save">Save</string>
+    <string name="to">to</string>
+    <string name="delete_dialog_msg">Delete this Card?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="fiat">Fiat</string>
+    <string name="currency">Currency</string>
+    <string name="value">Value</string>
+    <string name="conversion">Conversion</string>
+    <string name="convert">Convert</string>
+</resources>
